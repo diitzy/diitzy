@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, saya Muhammad Aditya Saputra</h1>
-<h3 align="center">Penggemar C++ yang hobi memodifikasi ImGui untuk menciptakan antarmuka pengguna yang unik dan fungsional. Fokus pada desain yang bersih, efisien, dan memberikan pengalaman visual yang keren. Selalu berusaha membawa UI ke level berikutnya!</h3>
+<h1 align="center">Hallo 👋, saya Muhammad Aditya Saputra</h1>
+<h3 align="center">Penggemar C++ dan Java yang suka modding game Android menggunakan ImGui. Menguasai berbagai bahasa pemrograman seperti C, C#, C++, Java, Shell, Python, HTML, dan PHP. Fokus pada kode yang bersih dengan indentasi rapi dan nama variabel yang profesional. Berusaha menciptakan pengalaman yang mulus dan efisien di setiap proyek.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diitzy&label=Profile%20views&color=0e75b6&style=flat" alt="diitzy" /> </p>
 
